@@ -1,18 +1,37 @@
 ### Hi there 👋
 
-Test
+I am currently a 3rd year  Software Engineering student.
 
-<!--
-**KMadre/KMadre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current projects:
 
-Here are some ideas to get you started:
+- Hobbyist List | Solo passion project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Old projects:
+
+- A game of chess | collaborative
+- Spreadsheet application | reach me for access
+
+### More information on projects:
+---------------------------------
+### Hobbyist List | Not compelte:
+- Written in C#
+- Built with WinForms
+- Allows the user to keep track of items for their hobbies, what they want to buy, and information about items
+- Features design principles like MVVM, GRASP, Factory design patterns, Command design patterns, and much more
+- NUnit Testing
+- XML file save system
+
+### Spreadsheet Application | Not complete:
+- Written in C#
+- Built with WinForms
+- Features design principles like MVVM, GRASP, Factory design patterns, Command design patterns, and much more
+- NUnit Testing
+- XML file save system
+- Expression Tree functionality
+
+### ChessGame | Complete:
+- 4 person collaboration for a school assignment.
+- Functional GUI
+- Uses OOP principles.
+- Written in C++
+- Use of external Library | SFML
