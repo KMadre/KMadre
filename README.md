@@ -12,7 +12,7 @@ I am currently a 3rd year  Software Engineering student.
 - Spreadsheet application | reach me for access
 ---------------------------------
 ### More information on projects:
-
+---------------------------------
 ### Hobbyist List | Not compelte:
 - Written in C#
 - Built with WinForms
