@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am currently a 3rd year  Software Engineering student.
-
+---------------------------------
 ### Current projects:
 
 - Hobbyist List | Solo passion project
@@ -10,9 +10,9 @@ I am currently a 3rd year  Software Engineering student.
 
 - A game of chess | collaborative
 - Spreadsheet application | reach me for access
-
-### More information on projects:
 ---------------------------------
+### More information on projects:
+
 ### Hobbyist List | Not compelte:
 - Written in C#
 - Built with WinForms
