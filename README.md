@@ -21,7 +21,7 @@ I am currently a 3rd year  Software Engineering student.
 - NUnit Testing
 - XML file save system
 
-### Spreadsheet Application | Not complete:
+### Spreadsheet Application | Complete:
 - Written in C#
 - Built with WinForms
 - Features design principles like MVVM, GRASP, Factory design patterns, Command design patterns, and much more
