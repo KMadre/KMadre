@@ -1,7 +1,7 @@
 ### Hi there 👋
 ----------------------
 - 3rd year  Software Engineering student.
-- My best programming language is C#, I also have a lot of experience in C/C++ and Python
+- My main programming language is C#, I also have a lot of experience in C/C++ and Python
 ----------------------
 ### Current projects:
 
