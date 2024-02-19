@@ -1,11 +1,11 @@
 ### Hi there 👋
 ----------------------
-- 3rd year  Software Engineering student.
+- 4th year  Software Engineering student.
 - My main programming language is C#, I also have a lot of experience in C/C++ and Python
 ----------------------
 ### Current projects:
 
-- Hobbyist List | Solo passion project
+- Retribution: The first encounter [Built with MonoGame]
 
 ### Old projects:
 
