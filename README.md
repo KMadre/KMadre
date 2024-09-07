@@ -3,11 +3,11 @@
 - 4th year  Software Engineering student.
 - My main programming language is C#, I also have a lot of experience in C/C++ and Python
 ----------------------
-### Current projects:
+### Highlighted projects:
 
 - Retribution: The first encounter [Built with MonoGame]
 
-### Old projects:
+### Old School projects:
 
 - A game of chess | collaborative
 - Spreadsheet application | reach me for access
