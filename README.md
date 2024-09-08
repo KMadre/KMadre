@@ -9,7 +9,7 @@
 
 ### Old School projects:
 
-- A game of chess | collaborative
+- A game of chess | reach me for access
 - Spreadsheet application | reach me for access
 ---------------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMadre)](https://github.com/KMadre/github-readme-stats)
