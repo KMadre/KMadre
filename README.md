@@ -5,12 +5,12 @@
 ----------------------
 ### Technologies:
 - C# .NET Full-Stack
--- FlaUI test automation
--- Gherkin for BDD tests
--- Nunit testing
+  - FlaUI test automation
+  - Gherkin for BDD tests
+  - Nunit testing
 - Java SpringMVC Full-Stack
--- Controller Class testing
--- General Unit testing
+  - Controller Class testing
+  - General Unit testing
 ----------------------
 ### Highlighted projects:
 
