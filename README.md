@@ -6,6 +6,7 @@
 ### Highlighted projects:
 
 - Retribution: The first encounter [Built with MonoGame]
+- EncryptedPasswordManager
 
 ### Old School projects:
 
