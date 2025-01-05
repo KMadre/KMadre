@@ -1,7 +1,17 @@
 ### Hi there 👋
 ----------------------
 - B.Sc. in Software Engineering
-- Professional Junior Software Developer
+- Professional Junior Software Engineer
+----------------------
+### Languages and Frameworks
+
+- C# .NET, FlaUI, Gherkin
+- Jenkins, Jira, Confluence, BitBucket
+- Java SpringMVC, ThymeLeaf
+- C/C++
+- Python
+- Godot
+
 ----------------------
 ### Highlighted projects:
 
