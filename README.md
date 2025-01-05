@@ -1,16 +1,7 @@
 ### Hi there 👋
 ----------------------
-- 4th year  Software Engineering student.
-- My main programming language is C#, I also have a lot of experience in C/C++ and Python
-----------------------
-### Technologies:
-- C# .NET Full-Stack
-  - FlaUI test automation
-  - Gherkin for BDD tests
-  - Nunit testing
-- Java SpringMVC Full-Stack
-  - Controller Class testing
-  - General Unit testing
+- B.Sc. in Software Engineering
+- Professional Junior Software Developer
 ----------------------
 ### Highlighted projects:
 
